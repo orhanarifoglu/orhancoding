@@ -651,7 +651,13 @@ Most used languages across my projects:
 </summary>
 
 <!-- recent_releases starts -->
+[Connect-3 Connect 3](https://github.com/orhanarifoglu/Connect-3/releases/tag/A) - 2020-08-31
 
+[Android-Sound-Demo Sound Demo](https://github.com/orhanarifoglu/Android-Sound-Demo/releases/tag/A) - 2020-08-31
+
+[Zombie-Survival-Game Initial Release](https://github.com/orhanarifoglu/Zombie-Survival-Game/releases/tag/V1.0) - 2019-01-18
+
+[Hermit-Crab Initial Release](https://github.com/orhanarifoglu/Hermit-Crab/releases/tag/V1.0) - 2019-01-18
 <!-- recent_releases ends -->
 
 
