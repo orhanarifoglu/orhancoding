@@ -479,7 +479,7 @@ ShaderLab                1 repos             █░░░░░░░░░░�
 
 Joined Github **5** years ago.
 
-Since then I pushed **395** commits, opened **14** issues, submitted **17** pull requests, received **1** stars across **26** personal projects and contributed to **9** public repositories.
+Since then I pushed **396** commits, opened **14** issues, submitted **17** pull requests, received **1** stars across **26** personal projects and contributed to **9** public repositories.
 
 Most used languages across my projects:
 
@@ -670,7 +670,9 @@ Most used languages across my projects:
 
 </summary>
 
+<!-- recent_releases starts -->
 
+<!-- recent_releases ends -->
 
 
 </br>
