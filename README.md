@@ -21,7 +21,7 @@
 
 <div>
 	
-Welcome to my page, I am always on the lookout for new projects to work on and new people to collaborate with. Do check outy repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [Sourcerer.io](https://sourcerer.io/orhanarifoglu) page for interesting stats about my programming journey.
+Welcome to my page. I am always on the lookout for new projects to work on and new people to collaborate with. Do check outy repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [Sourcerer.io](https://sourcerer.io/orhanarifoglu) page for interesting stats about my programming journey.
 I also work [@OSC](https://github.com/Open-Source-Project-Collaboration). Where as group of devs around the world, we vote and implement complex projects that is hard for single person to do. That way we get better at code reading open source and team skills. Feel free to join us for open source collaboaration!
 Do visit my Medium page and blog where I occasionally publish about my experiences exploring the world of programmimg.
 
@@ -371,36 +371,56 @@ Some info about me
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 **🐱 My Github Data** 
-
-> 🏆 106 Contributions in the Year 2020
+> 🏆 250 Contributions in the Year 2020
  > 
-> 📦 150.1 kB Used in Github's Storage 
+> 📦 153.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories
+> 📜 36 Public Repositories
  > 
 > 🔑 7 Private Repositories 
-
-**I Mostly Code in Java** 
-
+**I'm a Night 🦉** 
 ```text
-Java                     14 repos            ██████████████░░░░░░░░░░░   56.0% 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
-
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    241 commits    ████████████░░░░░░░░░░░░░   50.1% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 ```
-
-
+📅 **I'm Most Productive on Monday** 
+```text
+Monday       134 commits    ███████░░░░░░░░░░░░░░░░░░   27.86% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58%
+```
+📊 **This Week I Spent My Time On** 
+```text
+⌚︎ Time Zone: Europe/London
+💬 Programming Languages: 
+No Activity Tracked This Week
+🔥 Editors: 
+No Activity Tracked This Week
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+💻 Operating System: 
+No Activity Tracked This Week
+```
+**I Mostly Code in Java** 
+```text
+Java                     14 repos            ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+```
 **Timeline**
-
 ![Chart not found](https://github.com/orhanarifoglu/orhanarifoglu/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
@@ -459,7 +479,7 @@ ShaderLab                1 repos             █░░░░░░░░░░�
 
 Joined Github **5** years ago.
 
-Since then I pushed **401** commits, opened **14** issues, submitted **17** pull requests, received **1** stars across **26** personal projects and contributed to **9** public repositories.
+Since then I pushed **402** commits, opened **14** issues, submitted **17** pull requests, received **1** stars across **26** personal projects and contributed to **9** public repositories.
 
 Most used languages across my projects:
 
@@ -651,15 +671,7 @@ Most used languages across my projects:
 </summary>
 
 <!-- recent_releases starts -->
-[Higher-or-Lower-Android C](https://github.com/orhanarifoglu/Higher-or-Lower-Android/releases/tag/C) - 2020-08-31
 
-[Connect-3 Connect 3](https://github.com/orhanarifoglu/Connect-3/releases/tag/A) - 2020-08-31
-
-[Android-Sound-Demo Sound Demo](https://github.com/orhanarifoglu/Android-Sound-Demo/releases/tag/A) - 2020-08-31
-
-[Zombie-Survival-Game Initial Release](https://github.com/orhanarifoglu/Zombie-Survival-Game/releases/tag/V1.0) - 2019-01-18
-
-[Hermit-Crab Initial Release](https://github.com/orhanarifoglu/Hermit-Crab/releases/tag/V1.0) - 2019-01-18
 <!-- recent_releases ends -->
 
 
