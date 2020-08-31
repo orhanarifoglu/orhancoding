@@ -35,17 +35,4 @@ jobs:
         SHOW_PROJECTS: "False"
         SHOW_LINES_OF_CODE: "True"
         LOCALE: "en"
-    - name: Check out repo
-      uses: actions/checkout@v2
-    - name: Check out python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
-    - uses: actions/cache@v2
-      name: Configure pip caching
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
-    
+   
