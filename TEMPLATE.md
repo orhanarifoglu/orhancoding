@@ -21,7 +21,7 @@
 
 <div>
 	
-Welcome to my page, I am always on the lookout for new projects to work on and new people to collaborate with. Do check outy repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [Sourcerer.io](https://sourcerer.io/orhanarifoglu) page for interesting stats about my programming journey.
+Welcome to my page. I am always on the lookout for new projects to work on and new people to collaborate with. Do check outy repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [Sourcerer.io](https://sourcerer.io/orhanarifoglu) page for interesting stats about my programming journey.
 I also work [@OSC](https://github.com/Open-Source-Project-Collaboration). Where as group of devs around the world, we vote and implement complex projects that is hard for single person to do. That way we get better at code reading open source and team skills. Feel free to join us for open source collaboaration!
 Do visit my Medium page and blog where I occasionally publish about my experiences exploring the world of programmimg.
 
