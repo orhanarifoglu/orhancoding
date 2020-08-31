@@ -24,6 +24,13 @@ jobs:
         git config user.email 41898282+github-actions[bot]@users.noreply.github.com
         git add .
         git commit -m "Update README"
+    -  name: Update this repo's README
+
+uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        
     - name: Check out repo
       uses: actions/checkout@v2
     - name: Set up Python
@@ -53,12 +60,5 @@ jobs:
         git add -A
         git commit -m "Updated content" || exit 0
         git push origin master
-   update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
+  
+     
