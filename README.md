@@ -21,7 +21,7 @@
 
 <div>
 	
-Welcome to my page. I am always on the lookout for new projects to work on and new people to collaborate with. Do check outy repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [Sourcerer.io](https://sourcerer.io/orhanarifoglu) page for interesting stats about my programming journey.
+Welcome to my page, I am always on the lookout for new projects to work on and new people to collaborate with. Do check outy repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [Sourcerer.io](https://sourcerer.io/orhanarifoglu) page for interesting stats about my programming journey.
 I also work [@OSC](https://github.com/Open-Source-Project-Collaboration). Where as group of devs around the world, we vote and implement complex projects that is hard for single person to do. That way we get better at code reading open source and team skills. Feel free to join us for open source collaboaration!
 Do visit my Medium page and blog where I occasionally publish about my experiences exploring the world of programmimg.
 
@@ -479,7 +479,7 @@ ShaderLab                1 repos             █░░░░░░░░░░�
 
 Joined Github **5** years ago.
 
-Since then I pushed **399** commits, opened **14** issues, submitted **17** pull requests, received **1** stars across **26** personal projects and contributed to **9** public repositories.
+Since then I pushed **400** commits, opened **14** issues, submitted **17** pull requests, received **1** stars across **26** personal projects and contributed to **9** public repositories.
 
 Most used languages across my projects:
 
@@ -671,11 +671,7 @@ Most used languages across my projects:
 </summary>
 
 <!-- recent_releases starts -->
-[Android-Sound-Demo Sound Demo](https://github.com/orhanarifoglu/Android-Sound-Demo/releases/tag/A) - 2020-08-31
 
-[Zombie-Survival-Game Initial Release](https://github.com/orhanarifoglu/Zombie-Survival-Game/releases/tag/V1.0) - 2019-01-18
-
-[Hermit-Crab Initial Release](https://github.com/orhanarifoglu/Hermit-Crab/releases/tag/V1.0) - 2019-01-18
 <!-- recent_releases ends -->
 
 
