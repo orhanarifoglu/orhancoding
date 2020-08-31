@@ -371,77 +371,56 @@ Some info about me
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-941-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.4%20million%20lines%20of%20code-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 **🐱 My Github Data** 
-
-> 🏆 132 Contributions in the Year 2020
+> 🏆 250 Contributions in the Year 2020
  > 
-> 📦 153.6 kB Used in Github's Storage 
+> 📦 153.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories
+> 📜 36 Public Repositories
  > 
 > 🔑 7 Private Repositories 
-
 **I'm a Night 🦉** 
-
 ```text
-🌞 Morning    42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.07% 
-🌆 Daytime    123 commits    ███████░░░░░░░░░░░░░░░░░░   29.5% 
-🌃 Evening    199 commits    ████████████░░░░░░░░░░░░░   47.72% 
-🌙 Night      53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71%
-
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    241 commits    ████████████░░░░░░░░░░░░░   50.1% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 ```
 📅 **I'm Most Productive on Monday** 
-
 ```text
-Monday       168 commits    ██████████░░░░░░░░░░░░░░░   40.29% 
-Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
-Wednesday    46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
-Thursday     26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.24% 
-Friday       31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.43% 
-Saturday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.67% 
-Sunday       96 commits     █████░░░░░░░░░░░░░░░░░░░░   23.02%
-
+Monday       134 commits    ███████░░░░░░░░░░░░░░░░░░   27.86% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58%
 ```
-
-
 📊 **This Week I Spent My Time On** 
-
 ```text
 ⌚︎ Time Zone: Europe/London
-
 💬 Programming Languages: 
 No Activity Tracked This Week
-
 🔥 Editors: 
 No Activity Tracked This Week
-
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
-
 **I Mostly Code in Java** 
-
 ```text
-Java                     14 repos            ██████████████░░░░░░░░░░░   56.0% 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
-
+Java                     14 repos            ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 ```
-
-
 **Timeline**
-
 ![Chart not found](https://github.com/orhanarifoglu/orhanarifoglu/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
@@ -498,20 +477,15 @@ ShaderLab                1 repos             █░░░░░░░░░░�
 
 </br>
 
-Joined Github **5** years ago.
+Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
-Since then I pushed **426** commits, opened **14** issues, submitted **17** pull requests, received **1** stars across **26** personal projects and contributed to **9** public repositories.
+Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 Most used languages across my projects:
 
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B128.5%25)
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B117.3%25)
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B114.9%25)
-![Assembly](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236E4C13&message=Assembly%EF%B8%B111.8%25)
-![ShaderLab](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=ShaderLab%EF%B8%B17.3%25)
-![Scilab](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Scilab%EF%B8%B14.6%25)
-![ASP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236a40fd&message=ASP%EF%B8%B14.6%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B110.6%25)
+{{ LANGUAGE_TEMPLATE_START }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
 
 
 </br>
