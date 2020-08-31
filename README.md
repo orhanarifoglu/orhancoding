@@ -371,36 +371,56 @@ Some info about me
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-456-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 **🐱 My Github Data** 
-
-> 🏆 108 Contributions in the Year 2020
+> 🏆 250 Contributions in the Year 2020
  > 
-> 📦 153.5 kB Used in Github's Storage 
+> 📦 153.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 46 Public Repositories
+> 📜 36 Public Repositories
  > 
 > 🔑 7 Private Repositories 
-
-**I Mostly Code in Java** 
-
+**I'm a Night 🦉** 
 ```text
-Java                     14 repos            ██████████████░░░░░░░░░░░   56.0% 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
-
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    241 commits    ████████████░░░░░░░░░░░░░   50.1% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 ```
-
-
+📅 **I'm Most Productive on Monday** 
+```text
+Monday       134 commits    ███████░░░░░░░░░░░░░░░░░░   27.86% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58%
+```
+📊 **This Week I Spent My Time On** 
+```text
+⌚︎ Time Zone: Europe/London
+💬 Programming Languages: 
+No Activity Tracked This Week
+🔥 Editors: 
+No Activity Tracked This Week
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+💻 Operating System: 
+No Activity Tracked This Week
+```
+**I Mostly Code in Java** 
+```text
+Java                     14 repos            ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+```
 **Timeline**
-
 ![Chart not found](https://github.com/orhanarifoglu/orhanarifoglu/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
