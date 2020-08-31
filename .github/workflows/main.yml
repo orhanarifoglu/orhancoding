@@ -59,4 +59,12 @@ jobs:
         git add -A
         git commit -m "Updated content" || exit 0
         git push
-   
+   update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
