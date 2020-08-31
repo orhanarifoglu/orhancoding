@@ -24,7 +24,8 @@ jobs:
         git config user.email 41898282+github-actions[bot]@users.noreply.github.com
         git add .
         git commit -m "Update README"
-        git push
+        git pull --allow-unrelated-histories origin master
+        git push -u origin master   
         fi
    build:
     runs-on: ubuntu-latest
@@ -58,7 +59,8 @@ jobs:
         git config --global user.name "README-bot"
         git add -A
         git commit -m "Updated content" || exit 0
-        git push
+        git pull --allow-unrelated-histories origin master
+        git push -u origin master  
    update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
