@@ -670,9 +670,7 @@ Most used languages across my projects:
 
 </summary>
 
-<!-- recent_releases starts -->
 
-<!-- recent_releases ends -->
 
 
 </br>
