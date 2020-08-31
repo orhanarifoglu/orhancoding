@@ -25,7 +25,7 @@ jobs:
         git add .
         git commit -m "Update README"
         git pull --allow-unrelated-histories origin master
-        git push -u origin master   
+        git push origin master --force   
         fi
    build:
     runs-on: ubuntu-latest
@@ -60,7 +60,7 @@ jobs:
         git add -A
         git commit -m "Updated content" || exit 0
         git pull --allow-unrelated-histories origin master
-        git push -u origin master  
+        git push origin master --force 
    update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
