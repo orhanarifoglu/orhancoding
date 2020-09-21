@@ -293,6 +293,164 @@ Some info about me
 
 </br>
 
+## Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+## Frameworks
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+## Design
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
+![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
+![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
+
+## Motion Graphics
+![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
+
+## Database
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+## Deploy
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+
+## CMS
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
+![Joomla](http://img.shields.io/badge/-Joomla-FC8F30?style=flat-square&logo=joomla&logoColor=white)
+
+## Editors
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
+![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
+![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
+
+**🌱 Currently working on:**
+
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
+<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
+<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
+<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
+
+
+**💬 Ask me about:**
+
+<code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.terraform.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
+<code><a href="https://www.openshift.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></a></code>
+<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+
+**🌱 Looking forward to learn:**
+
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+
+Knowledges
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
+
+### Languages and Tools:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
+![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+
+
+### My Tech Stack
+
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=ffffff)
+![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+
+#### Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+
+#### Others
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
+
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
+
+![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+
+<div align="center">
+
 </details>
 
 
@@ -371,77 +529,56 @@ Some info about me
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.5%20million%20lines%20of%20code-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 **🐱 My Github Data** 
-
-> 🏆 116 Contributions in the Year 2020
+> 🏆 250 Contributions in the Year 2020
  > 
-> 📦 175.0 kB Used in Github's Storage 
+> 📦 153.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories
+> 📜 36 Public Repositories
  > 
-> 🔑 8 Private Repositories 
-
+> 🔑 7 Private Repositories 
 **I'm a Night 🦉** 
-
 ```text
-🌞 Morning    42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
-🌆 Daytime    130 commits    ███████░░░░░░░░░░░░░░░░░░   30.52% 
-🌃 Evening    201 commits    ███████████░░░░░░░░░░░░░░   47.18% 
-🌙 Night      53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44%
-
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    241 commits    ████████████░░░░░░░░░░░░░   50.1% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 ```
 📅 **I'm Most Productive on Monday** 
-
 ```text
-Monday       171 commits    ██████████░░░░░░░░░░░░░░░   40.14% 
-Tuesday      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.46% 
-Wednesday    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
-Thursday     26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
-Friday       31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.28% 
-Saturday     32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.51% 
-Sunday       96 commits     █████░░░░░░░░░░░░░░░░░░░░   22.54%
-
+Monday       134 commits    ███████░░░░░░░░░░░░░░░░░░   27.86% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58%
 ```
-
-
 📊 **This Week I Spent My Time On** 
-
 ```text
 ⌚︎ Time Zone: Europe/London
-
 💬 Programming Languages: 
 No Activity Tracked This Week
-
 🔥 Editors: 
 No Activity Tracked This Week
-
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
-
 **I Mostly Code in Java** 
-
 ```text
-Java                     14 repos            █████████████░░░░░░░░░░░░   53.85% 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
-
+Java                     14 repos            ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 ```
-
-
 **Timeline**
-
 ![Chart not found](https://github.com/orhanarifoglu/orhanarifoglu/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
@@ -500,7 +637,7 @@ ShaderLab                1 repos             █░░░░░░░░░░�
 
 Joined Github **6** years ago.
 
-Since then I pushed **435** commits, opened **15** issues, submitted **17** pull requests, received **1** stars across **27** personal projects and contributed to **10** public repositories.
+Since then I pushed **442** commits, opened **15** issues, submitted **17** pull requests, received **1** stars across **27** personal projects and contributed to **10** public repositories.
 
 Most used languages across my projects:
 
@@ -770,6 +907,8 @@ Most used languages across my projects:
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
 
+
+[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/0)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/0)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/1)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/1)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/2)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/2)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/3)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/3)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/4)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/4)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/5)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/5)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/6)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/6)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/7)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/7)
 
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
