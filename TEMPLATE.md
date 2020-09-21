@@ -2,7 +2,7 @@
 
 
 ![](https://gitwar.herokuapp.com/badge?username=orhanarifoglu&color=green)
-
+[![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen)](https://blog.csdn.net/weixin_46233323)
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
 <a href="https://leetcode.com/lemikistu/"><img align="left" alt="Orhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/></a>
