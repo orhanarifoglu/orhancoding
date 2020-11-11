@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am [Orhan](https://orhanarifoglu.github.io) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/Earth.gif" width="24px">
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am [Orhan](https://orhanarifoglu.github.io) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="24"> <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/Earth.gif" width="24px">
 
 
 ![](https://gitwar.herokuapp.com/badge?username=orhanarifoglu&color=green)
