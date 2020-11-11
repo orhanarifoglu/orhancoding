@@ -5,9 +5,9 @@
 [![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen)](https://blog.csdn.net/weixin_46233323)
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  
-<a href="https://leetcode.com/lemikistu/"><img align="left" alt="Orhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/></a>
-<a href="https://medium.com/@lemikistu_46876"><img align="left" alt="Orhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/></a>
-<a href="https://www.hackerrank.com/ajaykhalsa_ak"><img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg"/></a>
+<a href="https://leetcode.com/orhana/"><img align="left" alt="Orhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/></a>
+<a href="https://medium.com/@orhanarifoglu"><img align="left" alt="Orhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/></a>
+<a href="https://www.hackerrank.com/orhanarifoglu"><img align="left" alt="Orhan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg"/></a>
 <a href="https://www.kaggle.com/ajaykhalsa"><img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg"/></a>
 <a href="https://www.kaggle.com/ajaykhalsa"><img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/unity.svg"/></a>
 <a href="https://www.kaggle.com/ajaykhalsa"><img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/unrealengine.svg"/></a>
