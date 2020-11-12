@@ -111,9 +111,9 @@ Some info about me
 </br>
 
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=python)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=python)
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4">
+<code><img height="30" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="30" src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"></code>
 
 
 <h2>For high performance programming I have experience on</h2>
