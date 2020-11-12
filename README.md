@@ -8,11 +8,11 @@
 <a href="https://leetcode.com/orhana/"><img align="left" alt="Orhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/></a>
 <a href="https://medium.com/@orhanarifoglu"><img align="left" alt="Orhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/></a>
 <a href="https://www.hackerrank.com/orhanarifoglu"><img align="left" alt="Orhan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg"/></a>
-<a href="https://www.kaggle.com/ajaykhalsa"><img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg"/></a>
-<a href="https://www.kaggle.com/ajaykhalsa"><img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/unity.svg"/></a>
-<a href="https://www.kaggle.com/ajaykhalsa"><img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/unrealengine.svg"/></a>
-<a href="https://www.kaggle.com/ajaykhalsa"><img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/codeforces.svg"/></a>
-<a href="https://www.kaggle.com/ajaykhalsa"><img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg"/></a>
+<a href="https://www.kaggle.com/orhanar"><img align="left" alt="Orhan's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg"/></a>
+<a href="https://orhana.itch.io"><img align="left" alt="Orhan's Games" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/unity.svg"/></a>
+</a>
+<a href="https://codeforces.com/profile/orhana"><img align="left" alt="Orhan's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/codeforces.svg"/></a>
+<a href="https://www.linkedin.com/in/orhan-arifoglu-a3b6891aa/"><img align="left" alt="Orhan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg"/></a>
 <div>
  <p>
 
@@ -21,22 +21,25 @@
 
 <div>
 	
-Welcome to my page. I am always on the lookout for new projects to work on and new people to collaborate with. Do check outy repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [Sourcerer.io](https://sourcerer.io/orhanarifoglu) page for interesting stats about my programming journey.
-I also work [@OSC](https://github.com/Open-Source-Project-Collaboration). Where as group of devs around the world, we vote and implement complex projects that is hard for single person to do. That way we get better at code reading open source and team skills. Feel free to join us for open source collaboaration!
-Do visit my Medium page and blog where I occasionally publish about my experiences exploring the world of programmimg.
+Welcome to my page. I am always on the lookout for new cool projects to work on and new people to collaborate with. Do check out repositories and feel free to reach out if you would like to work on any of my existing projects, have any kind of feedback or if you think that I would be a good fit in your project. Visit my [Sourcerer.io](https://sourcerer.io/orhanarifoglu) page for interesting stats about my programming journey.
 
 </div>
 
-<h2>My Favourite "Things" </h2>
+<h2>My Favourite Technologies </h2>
 
 </br>
 
-<p align="center">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150">
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> 
-<img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="150"/> 
-<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="150"/> 
+<p align="left">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"> 
+<img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="100"/> 
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="100"/>
+<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
+<img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="100">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+
 </p>
 
 <div>
@@ -76,27 +79,22 @@ Some info about me
 
 </br>
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/frameworks/%20reactnative.svg" alt="react" style="vertical-align:top; margin:4px">
+
+<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/frameworks/reactnative.svg" alt="react" style="vertical-align:top; margin:4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/languages/csharp_dotnet.svg" alt="cs_dotnet" style="vertical-align:top; margin:4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/bootstrap.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jquery.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/flutter.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://img.shields.io/badge/-JSP-de6c1e?style=flat" > 
-<img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" > 
-<img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> 
-<img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+
+<code><img height="30" src="https://img.shields.io/badge/-JSP-de6c1e?style=flat" ></code>
+<code><img height="30" src="https://img.shields.io/badge/-django-black?style=flat&logo=django"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 
 
@@ -107,7 +105,7 @@ Some info about me
 [![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c)  
 
 
-<h2>For <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
+<h2>For <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px"> and
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px"> I have experience with</h2>
 
 </br>
@@ -141,13 +139,13 @@ Some info about me
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/bash.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/chrome.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white"> 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/nodejs_larger.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" > 
 
 <h2>Hosting services I have experience with</h2>
 
@@ -409,6 +407,7 @@ Knowledges
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/chrome.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 
 
 ### My Tech Stack
@@ -529,11 +528,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 #### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
 
 
-**Languages and Tools:** 
-<p align="left">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-  
-</p>
+
 
 
 ### Programming Languages 🌐
@@ -819,77 +814,56 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 **🐱 My Github Data** 
-
-> 🏆 133 Contributions in the Year 2020
+> 🏆 250 Contributions in the Year 2020
  > 
-> 📦 154.3 kB Used in Github's Storage 
+> 📦 153.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories
+> 📜 36 Public Repositories
  > 
-> 🔑 8 Private Repositories 
-
+> 🔑 7 Private Repositories 
 **I'm a Night 🦉** 
-
 ```text
-🌞 Morning    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
-🌆 Daytime    47 commits     ███████░░░░░░░░░░░░░░░░░░   30.32% 
-🌃 Evening    59 commits     █████████░░░░░░░░░░░░░░░░   38.06% 
-🌙 Night      26 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.77%
-
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    241 commits    ████████████░░░░░░░░░░░░░   50.1% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 ```
 📅 **I'm Most Productive on Monday** 
-
 ```text
-Monday       72 commits     ███████████░░░░░░░░░░░░░░   46.45% 
-Tuesday      12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
-Wednesday    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.16% 
-Thursday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
-Friday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.39% 
-Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
-
+Monday       134 commits    ███████░░░░░░░░░░░░░░░░░░   27.86% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58%
 ```
-
-
 📊 **This Week I Spent My Time On** 
-
 ```text
 ⌚︎ Time Zone: Europe/London
-
 💬 Programming Languages: 
 No Activity Tracked This Week
-
 🔥 Editors: 
 No Activity Tracked This Week
-
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in Python** 
-
+**I Mostly Code in Java** 
 ```text
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
+Java                     14 repos            ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 ```
-
-
 **Timeline**
-
 ![Chart not found](https://github.com/orhanarifoglu/orhanarifoglu/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
@@ -948,7 +922,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 Joined Github **6** years ago.
 
-Since then I pushed **238** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
+Since then I pushed **248** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
 
 Most used languages across my projects:
 
