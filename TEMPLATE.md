@@ -44,7 +44,6 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 <div>
 <h2>	
-</br>
 
 Some info about me
 
