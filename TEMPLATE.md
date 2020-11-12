@@ -138,7 +138,6 @@ Some info about me
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/bash.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/chrome.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white"> 
@@ -407,6 +406,7 @@ Knowledges
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/chrome.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 
 
 ### My Tech Stack
