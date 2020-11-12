@@ -39,19 +39,15 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
 <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
 
-</p>
 
 <div>
-<h2>	
+<h2>Some info about me </h2>
 
-Some info about me
-
-  <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
+ <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
   <a href="#"><img src="https://img.shields.io/badge/Kotlin-Enthusiast-_.svg?logo=kotlin"></a>
   <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
   
-</h2>
 </div>
 
  
