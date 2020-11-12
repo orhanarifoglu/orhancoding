@@ -30,11 +30,17 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 </br>
 
 <p align="left">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150">
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> 
-<img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="150"/> 
-<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="150"/> 
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"> 
+<img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="100"/> 
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="100"/>
+<img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100">
+<img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="100">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
 <div>
@@ -527,11 +533,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 #### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
 
 
-**Languages and Tools:** 
-<p align="left">
-  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-  
-</p>
+
 
 
 ### Programming Languages 🌐
