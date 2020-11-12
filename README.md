@@ -275,13 +275,11 @@ Some info about me
 
 </br>
 
-<code><img height="30" src="https://img.shields.io/badge/-Docker-black></code>
-<code><img height="30" src="https://img.shields.io/badge/-AzureDevops-0175C2></code>
-<code><img height="30" src="https://img.shields.io/badge/-Travis-red></code>
-<code><img height="30" src="https://img.shields.io/badge/-Docker-black></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/kubernetes.svg"></code>
-
+![Docker](https://img.shields.io/badge/-Docker-black)
+![Azure](https://img.shields.io/badge/-AzureDevops-0175C2)
+![Travis](https://img.shields.io/badge/-Travis-red)
 
 <h2>I like <img src=https://img.shields.io/badge/-Git-black?style=flat&logo=git> and <img src=https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github>, <img src=https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab> not so much </h2>
 
@@ -326,28 +324,28 @@ Some info about me
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 ![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
 
-**🌱 Currently working on:**
+<h2>🌱 Currently working on:</h2>
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
-<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<code><a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+<code><img height="30" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
 
 
-**💬 Ask me about:**
+<h2>💬 Ask me about:</h2>
 
-<code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.terraform.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
-<code><a href="https://www.openshift.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
-**🌱 Looking forward to learn:**
+<h2>🌱 Looking forward to learn:</h2>
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
@@ -355,11 +353,15 @@ Some info about me
 
 Knowledges
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black)
+
+![C++](https://img.shields.io/badge/-C++-00599C)
+![C](https://img.shields.io/badge/-A8B9CC)
+
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC)
+![Dart](https://img.shields.io/badge/-Dart-0175C2)
+
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
@@ -812,77 +814,56 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 **🐱 My Github Data** 
-
-> 🏆 152 Contributions in the Year 2020
+> 🏆 250 Contributions in the Year 2020
  > 
-> 📦 153.9 kB Used in Github's Storage 
+> 📦 153.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories
+> 📜 36 Public Repositories
  > 
-> 🔑 8 Private Repositories 
-
+> 🔑 7 Private Repositories 
 **I'm a Night 🦉** 
-
 ```text
-🌞 Morning    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
-🌆 Daytime    47 commits     ██████░░░░░░░░░░░░░░░░░░░   26.7% 
-🌃 Evening    59 commits     ████████░░░░░░░░░░░░░░░░░   33.52% 
-🌙 Night      47 commits     ██████░░░░░░░░░░░░░░░░░░░   26.7%
-
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    241 commits    ████████████░░░░░░░░░░░░░   50.1% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 ```
 📅 **I'm Most Productive on Monday** 
-
 ```text
-Monday       72 commits     ██████████░░░░░░░░░░░░░░░   40.91% 
-Tuesday      12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
-Wednesday    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-Thursday     38 commits     █████░░░░░░░░░░░░░░░░░░░░   21.59% 
-Friday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
-Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.68%
-
+Monday       134 commits    ███████░░░░░░░░░░░░░░░░░░   27.86% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58%
 ```
-
-
 📊 **This Week I Spent My Time On** 
-
 ```text
 ⌚︎ Time Zone: Europe/London
-
 💬 Programming Languages: 
 No Activity Tracked This Week
-
 🔥 Editors: 
 No Activity Tracked This Week
-
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in Python** 
-
+**I Mostly Code in Java** 
 ```text
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
+Java                     14 repos            ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 ```
-
-
 **Timeline**
-
 ![Chart not found](https://github.com/orhanarifoglu/orhanarifoglu/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
@@ -941,7 +922,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 Joined Github **6** years ago.
 
-Since then I pushed **259** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
+Since then I pushed **262** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
 
 Most used languages across my projects:
 
