@@ -455,21 +455,6 @@ Some info about me
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
-  </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
-</p>
-
-
-#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
-
-
 
 
 
@@ -1206,6 +1191,25 @@ Most used languages across my projects:
  <a href="https://medium.com/@pramodrana2107" target="blank">
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a> 
+
+
+
+<!-- Your hits or visitors
+site: http://hits.dwyl.com or https://visitor-badge.glitch.me
+Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
+-->
+<p align="center">
+  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
+    <img align="center" alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
+  </a>
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
+</p>
+
+
+#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
+
+
+
 
 
 [![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/0)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/0)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/1)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/1)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/2)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/2)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/3)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/3)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/4)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/4)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/5)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/5)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/6)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/6)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/7)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/7)
