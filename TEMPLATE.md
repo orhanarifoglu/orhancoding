@@ -200,7 +200,7 @@ Some info about me
 
 <details>
 <summary>
- <h2>My Preferences</h2>
+ <b>My Preferences</b>
 </summary>
 
 
