@@ -148,8 +148,6 @@ Some info about me
 
 
 
-
-
 <h2>Hosting services I have experience with</h2>
 
 </br>
@@ -181,7 +179,9 @@ Some info about me
 <code><img height="30" src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint"></code>
  
  
- ## Some of the main technologies I have worked with
+ <h2> Some of the main technologies I have worked with </h2>
+
+</br>
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
@@ -192,9 +192,6 @@ Some info about me
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-
-
- 
 </details>
 
 
