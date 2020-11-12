@@ -25,11 +25,11 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 </div>
 
-<h2>My Favourite "Things" </h2>
+<h2>My Favourite Technologies </h2>
 
 </br>
 
-<p align="center">
+<p align="left">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150">
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> 
