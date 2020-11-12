@@ -111,15 +111,12 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <code><img height="30" src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"></code>
 
 
-
-
 <h2>For high performance programming I have experience on</h2>
 
 </br>
 
 [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c++)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c++) 
 
-</details>
 
 <h2>Generally some technologies I have experience with</h2>
 
