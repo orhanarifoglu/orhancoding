@@ -291,7 +291,6 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 <h2>I like <img src=https://img.shields.io/badge/-Git-black?style=flat&logo=git> and <img src=https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github>, <img src=https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab> not so much </h2>
 
-</br>
 
 <h2>Frontend preferences</h2>
 
