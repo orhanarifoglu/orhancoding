@@ -145,8 +145,6 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="30" src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white"></code>
 
-</details>
-
 <h2>Hosting services I have experience with</h2>
 
 </br>
@@ -191,6 +189,7 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
+
 </details>
 
 
