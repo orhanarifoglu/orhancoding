@@ -150,13 +150,11 @@ Some info about me
 
 </br>
 
-<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/digitalocean.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/aws.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/azure.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/google_cloud_platform.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<code><img height="30" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/></code>
+<code><img height="30" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/digitalocean.svg"</code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/azure.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/google_cloud_platform.svg"></code>
 
 
     
@@ -164,8 +162,8 @@ Some info about me
 
 </br>
    
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/codechef.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/codewars.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/codechef.svg"</code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/codewars.svg"</code>
 
 
 
@@ -174,9 +172,9 @@ Some info about me
 
 </br>
 
-<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word">
-<img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> 
-<img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
+<code><img height="30" src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"></code>
+<code><img height="30" src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"></code>
+<code><img height="30" src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint"></code>
 
 </br>
   
@@ -193,8 +191,8 @@ Some info about me
 <h2>My Favourite Languages</h2>
 
 </br>
-
-
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/aws.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=python)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=python) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&logoColor=white&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c++)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c++) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=javascript)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=javascript) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=java)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=java) 
 
 
