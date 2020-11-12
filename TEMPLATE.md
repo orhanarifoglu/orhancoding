@@ -59,7 +59,7 @@ Some info about me
  
 <details>
 <summary>
- <h2>My Skills </h2>
+ <b>My Skills </b>
 </summary>
 	
 
