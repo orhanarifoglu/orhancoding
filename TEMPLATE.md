@@ -202,7 +202,6 @@ Some info about me
 <summary>
  <h2>My Preferences</h2>
 </summary>
-</br>
 
 
 <h2>My Favourite Languages</h2>
