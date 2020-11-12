@@ -105,7 +105,7 @@ Some info about me
 [![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c)  
 
 
-<h2>For <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
+<h2>For <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px"> and
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px"> I have experience with</h2>
 
 </br>
