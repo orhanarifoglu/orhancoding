@@ -353,14 +353,14 @@ Some info about me
 
 Knowledges
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black)
 
-[![C++](https://img.shields.io/badge/-C++-00599C)
-[![C](https://img.shields.io/badge/-A8B9CC)
+![C++](https://img.shields.io/badge/-C++-00599C)
+![C](https://img.shields.io/badge/-A8B9CC)
 
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC)
-[![Dart](https://img.shields.io/badge/-Dart-0175C2)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC)
+![Dart](https://img.shields.io/badge/-Dart-0175C2)
 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
