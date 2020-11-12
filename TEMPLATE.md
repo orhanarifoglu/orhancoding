@@ -669,9 +669,35 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 	
 - To get better at
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="cpp logo" width="30">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="c logo" width="30">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="python logo" width="30">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/travis_ci.png" alt="c logo" width="30">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="python logo" width="30">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |
-|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="cpp logo" width="30">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="c logo" width="30">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="python logo" width="30">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/travis_ci.png" alt="c logo" width="30">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="python logo" width="30">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
+
+
+    
+    
+    
+    
+   
+ 
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+ 
+  <br />
+ >
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+</p>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="cpp logo" width="30">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="c logo" width="30">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="python logo" width="30">](https://www.python.org/) |  [<img src="img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |
 
