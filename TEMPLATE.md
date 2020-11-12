@@ -59,14 +59,13 @@ Some info about me
  
 <details>
 <summary>
- <h1>My Skills </h1>
-	</br>
+ <h2>My Skills </h2>
 </summary>
 	
 
 
 
-<h2>I know below languages well</h2>
+<h3>I know below languages well</h3>
 
 </br>
 
