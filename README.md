@@ -650,14 +650,16 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 - To get better at 
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="24">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/) | [<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="bash logo" width="24">] |
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="24">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/) | <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="bash logo" width="24"> |
 |---|---|---|---|---|---|
 
 
 - To learn from scratch
 
-| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="v logo" width="24">](https://vlang.io/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/) |
+
+| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="cpp logo" width="24">](https://isocpp.org/)  | [<img src=""https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="c logo" width="24">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="python logo" width="24">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |  
 |---|---|---|---|
+
 
 
 
@@ -667,7 +669,7 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 	
 - To get better at
 
-<code><img height="30" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png"></code>
+<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png">]
 
 
 
@@ -847,77 +849,56 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-282-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 **🐱 My Github Data** 
-
-> 🏆 201 Contributions in the Year 2020
+> 🏆 250 Contributions in the Year 2020
  > 
-> 📦 155.2 kB Used in Github's Storage 
+> 📦 153.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories
+> 📜 36 Public Repositories
  > 
-> 🔑 8 Private Repositories 
-
+> 🔑 7 Private Repositories 
 **I'm a Night 🦉** 
-
 ```text
-🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04% 
-🌆 Daytime    83 commits     ██████████░░░░░░░░░░░░░░░   42.35% 
-🌃 Evening    62 commits     ████████░░░░░░░░░░░░░░░░░   31.63% 
-🌙 Night      47 commits     ██████░░░░░░░░░░░░░░░░░░░   23.98%
-
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    241 commits    ████████████░░░░░░░░░░░░░   50.1% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 ```
-📅 **I'm Most Productive on Thursday** 
-
+📅 **I'm Most Productive on Monday** 
 ```text
-Monday       42 commits     █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Tuesday      12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
-Wednesday    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
-Thursday     88 commits     ███████████░░░░░░░░░░░░░░   44.9% 
-Friday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.63% 
-Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.1%
-
+Monday       134 commits    ███████░░░░░░░░░░░░░░░░░░   27.86% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58%
 ```
-
-
 📊 **This Week I Spent My Time On** 
-
 ```text
 ⌚︎ Time Zone: Europe/London
-
 💬 Programming Languages: 
 No Activity Tracked This Week
-
 🔥 Editors: 
 No Activity Tracked This Week
-
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in Python** 
-
+**I Mostly Code in Java** 
 ```text
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
+Java                     14 repos            ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 ```
-
-
 **Timeline**
-
 ![Chart not found](https://github.com/orhanarifoglu/orhanarifoglu/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
@@ -976,7 +957,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 Joined Github **6** years ago.
 
-Since then I pushed **310** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
+Since then I pushed **314** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
 
 Most used languages across my projects:
 
