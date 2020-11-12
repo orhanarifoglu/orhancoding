@@ -650,7 +650,7 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 - To get better at 
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="24">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/) | [<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="bash logo" width="24">] |
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="24">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/) | <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="bash logo" width="24"> |
 |---|---|---|---|---|---|
 
 
@@ -667,7 +667,7 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 	
 - To get better at
 
-<code><img height="30" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png"></code>
+<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png">]
 
 
 
