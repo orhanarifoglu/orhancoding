@@ -612,41 +612,61 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
         <span>Tensorflow</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
       </td>
+	 td width="20%" align="center">
+        <span>Pytorch</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
+      </td>   
+	   td width="20%" align="center">
+        <span>Jupyter</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
+      </td>     
+	    td width="20%" align="center">
+        <span>Google Analytics</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg">
+      </td>   
+        td width="20%" align="center">
+        <span>Git</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+      </td>  
+        td width="20%" align="center">
+        <span>MySql</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      </td> 
+      td width="20%" align="center">
+        <span>Sqlite</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
+      </td> 
+      td width="20%" align="center">
+        <span>Json</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
+      </td> 
 </tr>
   </tbody>
 </table>
 
-<code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
-<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
-<code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 
 
-## Programming Languages 🌐
+<h2> Programming Language Goals 🌐 </h2>
 
-- To get better at below languages
+- To get better at or learn from scratch below languages
 
 | [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="v logo" width="24">](https://vlang.io/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="38">](https://golang.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="24">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
 |---|---|---|---|---|---|---|---|---|
 
 
 
-## Tools 🛠️
 
-- To get better at below tools
+<h2> Tools Goals 🛠️ </h2>
+
+- To get better or learn from scratch below tools
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="aseprite logo" width="24">](https://www.aseprite.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gimp.png" alt="gimp logo" width="24">](https://www.gimp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/travis_ci.png" alt="travis ci logo" width="24">](https://travis-ci.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html)| Windows Terminal | WSL |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="kubernetes logo" width="24">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
-
-
 <div align="center">
 
 
-
+/////////////////////////////////
 ### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -660,20 +680,7 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-**✨ Tech stacks currently using** <br>
-<br>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-<code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
-<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
-<code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
-<br>
-<br>
-<br>
+
 **🌱 Looking forward to learn:** <br>
 <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
@@ -776,16 +783,6 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
 
 
-<h2>💬 Ask me about:</h2>
-
-<code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 
 <h2> I like to get better at </h2>
@@ -978,6 +975,18 @@ Most used languages across my projects:
 </summary>
 
 </br>
+
+
+<h2>💬 Ask me about:</h2>
+
+<code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 <h3>Things I code with</h3>
 <p>
