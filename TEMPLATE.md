@@ -324,7 +324,7 @@ Some info about me
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 ![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
 
-<h2>**🌱 Currently working on:**</h2>
+<h2>🌱 Currently working on:</h2>
 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
@@ -334,7 +334,7 @@ Some info about me
 <code><img height="30" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
 
 
-<h2>**💬 Ask me about:**</h2>
+<h2>💬 Ask me about:</h2>
 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
@@ -345,7 +345,7 @@ Some info about me
 <code><img height="30" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
-<h2>**🌱 Looking forward to learn:**</h2>
+<h2>🌱 Looking forward to learn:</h2>
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
@@ -353,11 +353,15 @@ Some info about me
 
 Knowledges
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black)
+
+[![C++](https://img.shields.io/badge/-C++-00599C)
+[![C](https://img.shields.io/badge/-A8B9CC)
+
+
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2)
+
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
