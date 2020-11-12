@@ -13,11 +13,10 @@
 </a>
 <a href="https://codeforces.com/profile/orhana"><img align="left" alt="Orhan's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/codeforces.svg"/></a>
 <a href="https://www.linkedin.com/in/orhan-arifoglu-a3b6891aa/"><img align="left" alt="Orhan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg"/></a>
-<div>
- <p>
 
 </br>
 </br>
+
 
 <div>
 	
@@ -40,32 +39,27 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
 <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
 
-</p>
 
 <div>
-<h2>	
-</br>
+<h2>Some info about me </h2>
 
-Some info about me
-
-  <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
+ <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
   <a href="#"><img src="https://img.shields.io/badge/Kotlin-Enthusiast-_.svg?logo=kotlin"></a>
   <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
   
-</h2>
 </div>
 
  
 <details>
 <summary>
- <b>My Skills </b>
+ <b>My Skills</b>
 </summary>
 	
 
 
 
-<h3>I know below languages well</h3>
+<h2>I know below languages well</h2>
 
 </br>
 
@@ -74,6 +68,7 @@ Some info about me
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 
 
+</summary>
 
 <h2>In web development I know a lot about below tools</h2>
 
@@ -102,6 +97,8 @@ Some info about me
 </br>
 
 [![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c)  
+
+
 
 
 <h2>For <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px"> and
@@ -148,8 +145,6 @@ Some info about me
 
 
 
-
-
 <h2>Hosting services I have experience with</h2>
 
 </br>
@@ -181,7 +176,9 @@ Some info about me
 <code><img height="30" src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint"></code>
  
  
- ## Some of the main technologies I have worked with
+ <h2> Some of the main technologies I have worked with </h2>
+
+</br>
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
@@ -192,17 +189,13 @@ Some info about me
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
-
-
- 
 </details>
 
 
 <details>
 <summary>
- <h2>My Preferences</h2>
+ <b>My Preferences</b>
 </summary>
-</br>
 
 
 <h2>My Favourite Languages</h2>
@@ -790,77 +783,56 @@ Some info about me
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-186-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 **🐱 My Github Data** 
-
-> 🏆 172 Contributions in the Year 2020
+> 🏆 250 Contributions in the Year 2020
  > 
-> 📦 154.9 kB Used in Github's Storage 
+> 📦 153.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories
+> 📜 36 Public Repositories
  > 
-> 🔑 8 Private Repositories 
-
+> 🔑 7 Private Repositories 
 **I'm a Night 🦉** 
-
 ```text
-🌞 Morning    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
-🌆 Daytime    55 commits     ███████░░░░░░░░░░░░░░░░░░   28.21% 
-🌃 Evening    59 commits     ███████░░░░░░░░░░░░░░░░░░   30.26% 
-🌙 Night      58 commits     ███████░░░░░░░░░░░░░░░░░░   29.74%
-
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    241 commits    ████████████░░░░░░░░░░░░░   50.1% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 ```
 📅 **I'm Most Productive on Monday** 
-
 ```text
-Monday       72 commits     █████████░░░░░░░░░░░░░░░░   36.92% 
-Tuesday      12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.15% 
-Wednesday    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.1% 
-Thursday     57 commits     ███████░░░░░░░░░░░░░░░░░░   29.23% 
-Friday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.13%
-
+Monday       134 commits    ███████░░░░░░░░░░░░░░░░░░   27.86% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58%
 ```
-
-
 📊 **This Week I Spent My Time On** 
-
 ```text
 ⌚︎ Time Zone: Europe/London
-
 💬 Programming Languages: 
 No Activity Tracked This Week
-
 🔥 Editors: 
 No Activity Tracked This Week
-
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in Python** 
-
+**I Mostly Code in Java** 
 ```text
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
+Java                     14 repos            ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 ```
-
-
 **Timeline**
-
 ![Chart not found](https://github.com/orhanarifoglu/orhanarifoglu/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
@@ -919,7 +891,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 Joined Github **6** years ago.
 
-Since then I pushed **278** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
+Since then I pushed **294** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
 
 Most used languages across my projects:
 
