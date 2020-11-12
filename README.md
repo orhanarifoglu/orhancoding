@@ -194,9 +194,12 @@ Some info about me
 <h2>My Favourite Languages</h2>
 
 </br>
-<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/aws.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=python)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=python) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&logoColor=white&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c++)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c++) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=javascript)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=javascript) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=java)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=java) 
+
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=python)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=python)
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c) 
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&logoColor=white&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c++)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c++) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=javascript)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=javascript) 
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=java)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=java) 
 
 
 
@@ -204,22 +207,17 @@ Some info about me
 
 </br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="30" src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"></code>
 
-<h2>While doing  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px"> development on <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android">  I like to use</h2>
+<h2>While doing  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px"> development on <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> I like to use</h2>
 
 
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/android_studio.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/android_studio.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/languages/java.svg"></code>
 
 </br>
 
@@ -228,63 +226,61 @@ Some info about me
 
 </br>
 
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/unity.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/unity.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/csharp.svg"></code>
  
  
  <h2>IDEs I like</h2>
 
 </br>
 
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/android_studio_colour.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/eclipse.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_appcode.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_clion.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_datagrip.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_datalore.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_goland.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_intellij.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_phpstorm.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_pycharm.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_rider.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_rubymine.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_webstorm.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/visualstudio.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/visualstudio_code.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
- 
- 
- 
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/android_studio_colour.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/visualstudio_code.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/visualstudio.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/eclipse.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_appcode.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_clion.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_datagrip.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_datalore.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_goland.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_intellij.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_phpstorm.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_pycharm.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_rider.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_rubymine.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jetbrains_webstorm.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/jetbrains_pycharm.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/visualstudio.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/visualstudio_code.svg"></code>
+
 
 <h2> Areas I like to work on </h2>
 
 </br>
 
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/desktop.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/mobile.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/security.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/tools.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/web.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/gamedev.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/datascience.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/cloud.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src=https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&style="vertical-align:top; margin:6px 4px>
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> 
-<img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat">
-<img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat">
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/desktop.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/mobile.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/security.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/tools.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/web.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/gamedev.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/datascience.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/cloud.svg"></code>
+![Leetcode](https://img.shields.io/badge/-LeetCode-02569B)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-ffa804)
+![Database Management](https://img.shields.io/badge/-Database%20Management-4d008f)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230)
 
 <h2>CI/CD Tools I like</h2>
 
 </br>
 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![AzureDevops](https://img.shields.io/badge/-AzureDevops-0175C2?style=flat&logo=azureDevops&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/kubernetes.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<code><img height="30" src="https://img.shields.io/badge/-Docker-black></code>
+<code><img height="30" src="https://img.shields.io/badge/-AzureDevops-0175C2></code>
+<code><img height="30" src="https://img.shields.io/badge/-Travis-red></code>
+<code><img height="30" src="https://img.shields.io/badge/-Docker-black></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/kubernetes.svg"></code>
 
 
 <h2>I like <img src=https://img.shields.io/badge/-Git-black?style=flat&logo=git> and <img src=https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github>, <img src=https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab> not so much </h2>
@@ -459,6 +455,8 @@ Knowledges
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/aws.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 ##### Some of the technologies I have worked with
 
@@ -814,77 +812,56 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 **🐱 My Github Data** 
-
-> 🏆 143 Contributions in the Year 2020
+> 🏆 250 Contributions in the Year 2020
  > 
-> 📦 154.6 kB Used in Github's Storage 
+> 📦 153.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories
+> 📜 36 Public Repositories
  > 
-> 🔑 8 Private Repositories 
-
+> 🔑 7 Private Repositories 
 **I'm a Night 🦉** 
-
 ```text
-🌞 Morning    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
-🌆 Daytime    47 commits     ██████░░░░░░░░░░░░░░░░░░░   27.01% 
-🌃 Evening    59 commits     ████████░░░░░░░░░░░░░░░░░   33.91% 
-🌙 Night      45 commits     ██████░░░░░░░░░░░░░░░░░░░   25.86%
-
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    241 commits    ████████████░░░░░░░░░░░░░   50.1% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 ```
 📅 **I'm Most Productive on Monday** 
-
 ```text
-Monday       72 commits     ██████████░░░░░░░░░░░░░░░   41.38% 
-Tuesday      12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-Wednesday    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.6% 
-Thursday     36 commits     █████░░░░░░░░░░░░░░░░░░░░   20.69% 
-Friday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
-Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.75%
-
+Monday       134 commits    ███████░░░░░░░░░░░░░░░░░░   27.86% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58%
 ```
-
-
 📊 **This Week I Spent My Time On** 
-
 ```text
 ⌚︎ Time Zone: Europe/London
-
 💬 Programming Languages: 
 No Activity Tracked This Week
-
 🔥 Editors: 
 No Activity Tracked This Week
-
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in Python** 
-
+**I Mostly Code in Java** 
 ```text
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
+Java                     14 repos            ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 ```
-
-
 **Timeline**
-
 ![Chart not found](https://github.com/orhanarifoglu/orhanarifoglu/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
@@ -943,7 +920,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 Joined Github **6** years ago.
 
-Since then I pushed **257** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
+Since then I pushed **259** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
 
 Most used languages across my projects:
 
