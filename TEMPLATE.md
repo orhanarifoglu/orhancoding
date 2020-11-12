@@ -608,39 +608,39 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
         <span>Python</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
       </td>
- <td width="20%" align="center">
+      <td width="20%" align="center">
         <span>Tensorflow</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
       </td>
-	 td width="20%" align="center">
+      <td width="20%" align="center">
         <span>Pytorch</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg">
       </td>   
-	   td width="20%" align="center">
+      <td width="20%" align="center">
         <span>Jupyter</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
       </td>     
-	    td width="20%" align="center">
+      <td width="20%" align="center">
         <span>Google Analytics</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg">
       </td>   
-        td width="20%" align="center">
+      <td width="20%" align="center">
         <span>Git</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
       </td>  
-        td width="20%" align="center">
+      <td width="20%" align="center">
         <span>MySql</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td> 
-      td width="20%" align="center">
+      <td width="20%" align="center">
         <span>Sqlite</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
       </td> 
-      td width="20%" align="center">
+      <td width="20%" align="center">
         <span>Json</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
       </td> 
-</tr>
+    </tr>
   </tbody>
 </table>
 
