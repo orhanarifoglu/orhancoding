@@ -8,11 +8,11 @@
 <a href="https://leetcode.com/orhana/"><img align="left" alt="Orhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/></a>
 <a href="https://medium.com/@orhanarifoglu"><img align="left" alt="Orhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/></a>
 <a href="https://www.hackerrank.com/orhanarifoglu"><img align="left" alt="Orhan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg"/></a>
-<a href="https://www.kaggle.com/ajaykhalsa"><img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg"/></a>
-<a href="https://www.kaggle.com/ajaykhalsa"><img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/unity.svg"/></a>
-<a href="https://www.kaggle.com/ajaykhalsa"><img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/unrealengine.svg"/></a>
-<a href="https://www.kaggle.com/ajaykhalsa"><img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/codeforces.svg"/></a>
-<a href="https://www.kaggle.com/ajaykhalsa"><img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg"/></a>
+<a href="https://www.kaggle.com/orhanar"><img align="left" alt="Orhan's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg"/></a>
+<a href="https://orhana.itch.io"><img align="left" alt="Orhan's Games" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/unity.svg"/></a>
+</a>
+<a href="https://codeforces.com/profile/orhana"><img align="left" alt="Orhan's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/codeforces.svg"/></a>
+<a href="https://www.linkedin.com/in/orhan-arifoglu-a3b6891aa/"><img align="left" alt="Orhan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg"/></a>
 <div>
  <p>
 
@@ -21,9 +21,7 @@
 
 <div>
 	
-Welcome to my page. I am always on the lookout for new projects to work on and new people to collaborate with. Do check outy repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [Sourcerer.io](https://sourcerer.io/orhanarifoglu) page for interesting stats about my programming journey.
-I also work [@OSC](https://github.com/Open-Source-Project-Collaboration). Where as group of devs around the world, we vote and implement complex projects that is hard for single person to do. That way we get better at code reading open source and team skills. Feel free to join us for open source collaboaration!
-Do visit my Medium page and blog where I occasionally publish about my experiences exploring the world of programmimg.
+Welcome to my page. I am always on the lookout for new cool projects to work on and new people to collaborate with. Do check out repositories and feel free to reach out if you would like to work on any of my existing projects, have any kind of feedback or if you think that I would be a good fit in your project. Visit my [Sourcerer.io](https://sourcerer.io/orhanarifoglu) page for interesting stats about my programming journey.
 
 </div>
 
