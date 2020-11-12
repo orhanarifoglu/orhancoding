@@ -68,7 +68,7 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 
 
-</summary>
+
 
 <h2>In web development I know a lot about below tools</h2>
 
@@ -100,7 +100,6 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 
 
-
 <h2>For <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px"> and
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px"> I have experience with</h2>
 
@@ -123,11 +122,11 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 </br>
 
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> 
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<code><img height="30" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></code>
+<code><img height="30" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/></code>
+<code><img height="30" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/vmware.svg"></code>
-<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/bash.svg"</code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/bash.svg"></code>
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/nodejs_larger.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -142,8 +141,6 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="30" src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white"></code>
-
-
 
 <h2>Hosting services I have experience with</h2>
 
@@ -189,6 +186,9 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
+
+</br>
+
 </details>
 
 
@@ -220,13 +220,14 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <code><img height="30" src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"></code>
 
+
 <h2>While doing  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px"> development on <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> I like to use</h2>
 
+</br>
 
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/android_studio.svg"></code>
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/languages/java.svg"></code>
 
-</br>
 
 
 <h2> While doing  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/gamedev.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px"> I like to use </h2>
@@ -290,9 +291,11 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 <h2>I like <img src=https://img.shields.io/badge/-Git-black?style=flat&logo=git> and <img src=https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github>, <img src=https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab> not so much </h2>
 
+
+<h2>Frontend preferences</h2>
+
 </br>
 
-## Frontend preferences
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -302,21 +305,33 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 
-## Frameworks preferences
+<h2>Frameworks preferences</h2>
+
+</br>
+
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-## Design preferences
+<h2>Design preferences</h2>
+
+</br>
+
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
 ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
 
-## Motion Graphics preferences
+<h2>Motion Graphics preferences</h2>
+
+</br>
+
 ![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
 
-## Database preferences
+<h2>Database preferences</h2>
+
+</br>
+
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
@@ -324,16 +339,25 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 
-## Deployment preferences
+<h2>Deployment preferences</h2>
+
+</br>
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-## CMS preferences
+<h2>CMS preferences</h2>
+
+</br>
+
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
 ![Joomla](http://img.shields.io/badge/-Joomla-FC8F30?style=flat-square&logo=joomla&logoColor=white)
 
-## Editors preferences
+<h2>Editors preferences</h2>
+
+</br>
+
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
@@ -369,10 +393,11 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 
 
-## My main go to Languages and Tools:
+<h2>My main go to Languages and Tools:>/h2>
+
+</br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
@@ -380,7 +405,9 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/LuizCarlosAbbott/)
 
 
-## My preferred go to Tech Stack
+<h2>My preferred go to Tech Stack</h2>
+
+</br>
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
@@ -392,7 +419,10 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
-## Overall tools I prefer
+<h2>Overall tools I prefer</h2>
+
+</br>
+
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -412,7 +442,9 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/aws.svg"></code>
 
 
-## Some of my favorite open source projects
+<h2>Some of my favorite open source projects</h2>
+
+</br>
 
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
 [![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-444444?style=flat&logo=Dark-Reader&logoColor=2f7485)](https://github.com/darkreader/darkreader)
@@ -421,6 +453,7 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
+</br>
 
 </details>
 
@@ -783,77 +816,56 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-193-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 **🐱 My Github Data** 
-
-> 🏆 172 Contributions in the Year 2020
+> 🏆 250 Contributions in the Year 2020
  > 
-> 📦 155.4 kB Used in Github's Storage 
+> 📦 153.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories
+> 📜 36 Public Repositories
  > 
-> 🔑 8 Private Repositories 
-
+> 🔑 7 Private Repositories 
 **I'm a Night 🦉** 
-
 ```text
-🌞 Morning    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
-🌆 Daytime    71 commits     █████████░░░░░░░░░░░░░░░░   36.22% 
-🌃 Evening    59 commits     ███████░░░░░░░░░░░░░░░░░░   30.1% 
-🌙 Night      47 commits     ██████░░░░░░░░░░░░░░░░░░░   23.98%
-
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    241 commits    ████████████░░░░░░░░░░░░░   50.1% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 ```
-📅 **I'm Most Productive on Thursday** 
-
+📅 **I'm Most Productive on Monday** 
 ```text
-Monday       57 commits     ███████░░░░░░░░░░░░░░░░░░   29.08% 
-Tuesday      12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
-Wednesday    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
-Thursday     73 commits     █████████░░░░░░░░░░░░░░░░   37.24% 
-Friday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.63% 
-Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.1%
-
+Monday       134 commits    ███████░░░░░░░░░░░░░░░░░░   27.86% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58%
 ```
-
-
 📊 **This Week I Spent My Time On** 
-
 ```text
 ⌚︎ Time Zone: Europe/London
-
 💬 Programming Languages: 
 No Activity Tracked This Week
-
 🔥 Editors: 
 No Activity Tracked This Week
-
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in Python** 
-
+**I Mostly Code in Java** 
 ```text
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
+Java                     14 repos            ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 ```
-
-
 **Timeline**
-
 ![Chart not found](https://github.com/orhanarifoglu/orhanarifoglu/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
@@ -912,7 +924,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 Joined Github **6** years ago.
 
-Since then I pushed **294** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
+Since then I pushed **302** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
 
 Most used languages across my projects:
 
