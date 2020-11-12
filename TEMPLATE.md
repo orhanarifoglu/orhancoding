@@ -60,6 +60,7 @@ Some info about me
 <details>
 <summary>
  <b>My Skills </b>
+	</br>
 </summary>
 	
 
@@ -147,7 +148,7 @@ Some info about me
 <code><img height="30" src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white"></code>
 
 
-</details>
+
 
 
 <h2>Hosting services I have experience with</h2>
