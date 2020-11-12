@@ -601,8 +601,21 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 </table>
 
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+      </td>
+ <td width="20%" align="center">
+        <span>Tensorflow</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
+      </td>
+</tr>
+  </tbody>
+</table>
+
 <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></a></code>
