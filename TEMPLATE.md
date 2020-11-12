@@ -275,13 +275,11 @@ Some info about me
 
 </br>
 
-<code><img height="30" src="https://img.shields.io/badge/-Docker-black></code>
-<code><img height="30" src="https://img.shields.io/badge/-AzureDevops-0175C2></code>
-<code><img height="30" src="https://img.shields.io/badge/-Travis-red></code>
-<code><img height="30" src="https://img.shields.io/badge/-Docker-black></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/kubernetes.svg"></code>
-
+![Docker](https://img.shields.io/badge/-Docker-black)
+![Azure](https://img.shields.io/badge/-AzureDevops-0175C2)
+![Travis](https://img.shields.io/badge/-Travis-red)
 
 <h2>I like <img src=https://img.shields.io/badge/-Git-black?style=flat&logo=git> and <img src=https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github>, <img src=https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab> not so much </h2>
 
@@ -326,28 +324,28 @@ Some info about me
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 ![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
 
-**🌱 Currently working on:**
+<h2>**🌱 Currently working on:**</h2>
 
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
-<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<code><a href="https://www.ansible.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+<code><img height="30" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
 
 
-**💬 Ask me about:**
+<h2>**💬 Ask me about:**</h2>
 
-<code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.terraform.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
-<code><a href="https://www.openshift.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></a></code>
-<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
-**🌱 Looking forward to learn:**
+<h2>**🌱 Looking forward to learn:**</h2>
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
