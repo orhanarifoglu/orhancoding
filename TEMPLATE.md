@@ -99,7 +99,6 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 [![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white&link=https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c)](https://github.com/orhanarifoglu?tab=repositories&q=&type=&language=c)  
 
 
-</details>
 
 <h2>For <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px"> and
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px"> I have experience with</h2>
@@ -144,6 +143,7 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <code><img height="30" src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white"></code>
 
 
+</details>
 
 <h2>Hosting services I have experience with</h2>
 
