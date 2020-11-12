@@ -13,8 +13,9 @@
 </a>
 <a href="https://codeforces.com/profile/orhana"><img align="left" alt="Orhan's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/codeforces.svg"/></a>
 <a href="https://www.linkedin.com/in/orhan-arifoglu-a3b6891aa/"><img align="left" alt="Orhan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg"/></a>
-<div>
- <p>
+
+</br>
+</br>
 
 
 <div>
