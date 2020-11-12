@@ -220,13 +220,14 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <code><img height="30" src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"></code>
 
+
 <h2>While doing  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px"> development on <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> I like to use</h2>
 
+</br>
 
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/android_studio.svg"></code>
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/languages/java.svg"></code>
 
-</br>
 
 
 <h2> While doing  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/gamedev.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px"> I like to use </h2>
@@ -292,7 +293,10 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 </br>
 
-## Frontend preferences
+<h2>Frontend preferences</h2>
+
+</br>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -302,21 +306,33 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 
-## Frameworks preferences
+<h2>Frameworks preferences</h2>
+
+</br>
+
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-## Design preferences
+<h2>Design preferences</h2>
+
+</br>
+
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
 ![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=ffffff)
 
-## Motion Graphics preferences
+<h2>Motion Graphics preferences</h2>
+
+</br>
+
 ![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
 
-## Database preferences
+<h2>Database preferences</h2>
+
+</br>
+
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
@@ -324,16 +340,25 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 
-## Deployment preferences
+<h2>Deployment preferences</h2>
+
+</br>
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-## CMS preferences
+<h2>CMS preferences</h2>
+
+</br>
+
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
 ![Joomla](http://img.shields.io/badge/-Joomla-FC8F30?style=flat-square&logo=joomla&logoColor=white)
 
-## Editors preferences
+<h2>Editors preferences</h2>
+
+</br>
+
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
@@ -369,10 +394,11 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 
 
-## My main go to Languages and Tools:
+<h2>My main go to Languages and Tools:>/h2>
+
+</br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
@@ -380,7 +406,9 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/LuizCarlosAbbott/)
 
 
-## My preferred go to Tech Stack
+<h2>My preferred go to Tech Stack</h2>
+
+</br>
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
@@ -392,7 +420,10 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
-## Overall tools I prefer
+<h2>Overall tools I prefer</h2>
+
+</br>
+
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -412,7 +443,9 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/aws.svg"></code>
 
 
-## Some of my favorite open source projects
+<h2>Some of my favorite open source projects</h2>
+
+</br>
 
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
 [![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-444444?style=flat&logo=Dark-Reader&logoColor=2f7485)](https://github.com/darkreader/darkreader)
@@ -421,6 +454,7 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
+</br>
 
 </details>
 
