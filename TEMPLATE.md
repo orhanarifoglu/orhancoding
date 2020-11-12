@@ -266,10 +266,10 @@ Some info about me
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/gamedev.svg"></code>
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/datascience.svg"></code>
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/cloud.svg"></code>
-<code><img height="30" src="https://img.shields.io/badge/-LeetCode-02569B></code>
-<code><img height="30" src="https://img.shields.io/badge/-Problem%20Solving-ffa804></code>
-<code><img height="30" src="https://img.shields.io/badge/-Database%20Management-4d008f></code>
-<code><img height="30" src="https://img.shields.io/badge/-Machine%20Learning-102230></code>
+![Leetcode](https://img.shields.io/badge/-LeetCode-02569B)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-ffa804)
+![Database Management](https://img.shields.io/badge/-Database%20Management-4d008f)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230)
 
 <h2>CI/CD Tools I like</h2>
 
