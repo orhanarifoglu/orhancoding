@@ -129,7 +129,7 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <code><img height="30" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/></code>
 <code><img height="30" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/vmware.svg"></code>
-<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/bash.svg"</code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/bash.svg"></code>
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/nodejs_larger.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
