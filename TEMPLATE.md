@@ -86,20 +86,14 @@ Some info about me
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/languages/csharp_dotnet.svg" alt="cs_dotnet" style="vertical-align:top; margin:4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/bootstrap.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/jquery.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/flutter.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <img src="https://img.shields.io/badge/-JSP-de6c1e?style=flat" > 
-<img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" > 
 <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> 
-<img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+
 
 
 
@@ -151,6 +145,7 @@ Some info about me
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/nodejs_larger.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" > 
 
 <h2>Hosting services I have experience with</h2>
 
