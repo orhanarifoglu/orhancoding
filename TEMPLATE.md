@@ -152,7 +152,7 @@ Some info about me
 
 <code><img height="30" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"></code>
-<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/digitalocean.svg"</code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/digitalocean.svg"></code>
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/azure.svg"></code>
 <code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/google_cloud_platform.svg"></code>
 
@@ -162,8 +162,8 @@ Some info about me
 
 </br>
    
-<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/codechef.svg"</code>
-<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/codewars.svg"</code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/codechef.svg"></code>
+<code><img height="30" src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/codewars.svg"></code>
 
 
 
