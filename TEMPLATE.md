@@ -111,6 +111,8 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <code><img height="30" src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"></code>
 
 
+</details>
+
 <h2>For high performance programming I have experience on</h2>
 
 </br>
@@ -143,7 +145,6 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <code><img height="30" src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white"></code>
 
 
-</details>
 
 <h2>Hosting services I have experience with</h2>
 
