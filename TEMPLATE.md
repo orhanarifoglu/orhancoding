@@ -676,13 +676,15 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 - To learn from scratch
  
-| [<img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+| [<img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)" alt="cpp logo" width="30">](https://isocpp.org/) 
+|---|---|---|---|
+    
+
+
+ |  [<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" alt="cpp logo" width="30">](https://isocpp.org/)
 |  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" alt="cpp logo" width="30">](https://isocpp.org/)
 |  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" alt="cpp logo" width="30">](https://isocpp.org/)
 |  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" alt="cpp logo" width="30">](https://isocpp.org/)
-|---|---|---|---|---|---|---|---|---|---|---|
-    
-
   [<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" alt="cpp logo" width="30">](https://isocpp.org/)
 |  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" alt="cpp logo" width="30">](https://isocpp.org/)
 |  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" alt="cpp logo" width="30">](https://isocpp.org/)
