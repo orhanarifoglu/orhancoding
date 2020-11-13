@@ -726,16 +726,10 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
 
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
->
-  <br />
+
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
@@ -754,7 +748,6 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
@@ -803,7 +796,6 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <h2>🌱 Looking forward to learn:</h2>
 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
 
 
 
@@ -819,12 +811,12 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="nodejs"></code>
 <code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
+
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github"></code>
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/r.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/php.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
