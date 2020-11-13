@@ -683,7 +683,8 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
  
  ////////////////////////////////////////////////////
 
- 
+
+
 | [<img src="img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="python logo" width="30">](https://www.python.org/) |  [<img src="img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |
 
  
@@ -698,44 +699,55 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 ### Languages and Tools
 
 
+ ## 🌱 Ask me about :computer:
  
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-
-**🌱 Looking forward to learn:** <br>
-<br>
+ <p>
+	
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<br>
-<br>
-<br>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="nodejs"></code>
+<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github"></code>
+<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/php.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/docker.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/dockerhub.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<img title="AWS" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/aws.svg" width="60" height="40" />
+<img title="linux" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/linux-tux.svg" width="40" />
 
-## Tech Stack :computer:
-
-<br>
+//////////////////////////////////////////////////////////////
 
 
-<p>
 
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
+[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
+<img title="Hadoop" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" width="70" height="40" />
+<img title="Spark" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" width="80" height="40" />
+<img title="Scala" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" width="40" height="40" />
+<img title="Kafka" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" width="105" height="40" />
+<img title="Bamboo" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/bamboo.svg" width="40" height="40" />
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
+[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
-
-
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 
 <h2> I like to learn </h2>
@@ -746,18 +758,10 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<img title="Hadoop" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" width="70" height="40" />
-<img title="Spark" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" width="80" height="40" />
-<img title="Scala" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" width="40" height="40" />
-<img title="Kafka" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" width="105" height="40" />
-<img title="Bamboo" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/bamboo.svg" width="40" height="40" />
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
@@ -779,10 +783,7 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 
-[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
@@ -804,33 +805,22 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 </br>
 
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="nodejs"></code>
-<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github"></code>
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/r.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/php.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+
 <img src="/dev/new/react.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <img src="/dev/new/vue.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
+
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/docker.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/dockerhub.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/nuget.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img title="AWS" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/aws.svg" width="60" height="40" />
-<img title="linux" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/linux-tux.svg" width="40" />
+
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">  
 
 
