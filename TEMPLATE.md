@@ -676,40 +676,39 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 - To learn from scratch
  
-| [<img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)" alt="cpp logo" width="30">](https://isocpp.org/)
-|---|---|---|---|---|
+| [<img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/bamboo.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
+
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
     
 
-|  [<img src="https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)" alt="cpp logo" width="30">](https://isocpp.org/)
-|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
-|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
-|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
-|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
-|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
-|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
-|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
-|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
-|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
-|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
-|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
-|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
+
+|  [<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="cpp logo" width="30">](https://isocpp.org/)
+
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/bamboo.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
 
 
-[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<img title="Hadoop" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" width="70" height="40" />
-<img title="Spark" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" width="80" height="40" />
-<img title="Scala" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" width="40" height="40" />
-<img title="Kafka" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" width="105" height="40" />
-<img title="Bamboo" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/bamboo.svg" width="40" height="40" />
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
-[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
- 
+
  ////////////////////////////////////////////////////
 
 
