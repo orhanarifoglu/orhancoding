@@ -676,11 +676,38 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 - To learn from scratch
  
-  | [<img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="cpp logo" width="30">](https://isocpp.org/)
-|---|---|---|---|---|
+| [<img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/bamboo.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)  | 
+
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
     
 
- 
+
+|  [<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="cpp logo" width="30">](https://isocpp.org/)
+
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/bamboo.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
+
+
+
+
  ////////////////////////////////////////////////////
 
 
@@ -734,20 +761,6 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 
 
-[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<img title="Hadoop" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" width="70" height="40" />
-<img title="Spark" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" width="80" height="40" />
-<img title="Scala" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" width="40" height="40" />
-<img title="Kafka" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" width="105" height="40" />
-<img title="Bamboo" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/bamboo.svg" width="40" height="40" />
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
-[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 
 <h2> I like to learn </h2>
@@ -839,77 +852,56 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-315-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 **🐱 My Github Data** 
-
-> 🏆 218 Contributions in the Year 2020
+> 🏆 250 Contributions in the Year 2020
  > 
-> 📦 155.2 kB Used in Github's Storage 
+> 📦 153.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories
+> 📜 36 Public Repositories
  > 
-> 🔑 8 Private Repositories 
-
+> 🔑 7 Private Repositories 
 **I'm a Night 🦉** 
-
 ```text
-🌞 Morning    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
-🌆 Daytime    77 commits     █████████░░░░░░░░░░░░░░░░   39.29% 
-🌃 Evening    62 commits     ████████░░░░░░░░░░░░░░░░░   31.63% 
-🌙 Night      54 commits     ███████░░░░░░░░░░░░░░░░░░   27.55%
-
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    241 commits    ████████████░░░░░░░░░░░░░   50.1% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 ```
-📅 **I'm Most Productive on Thursday** 
-
+📅 **I'm Most Productive on Monday** 
 ```text
-Monday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
-Tuesday      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.61% 
-Wednesday    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
-Thursday     95 commits     ████████████░░░░░░░░░░░░░   48.47% 
-Friday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.1%
-
+Monday       134 commits    ███████░░░░░░░░░░░░░░░░░░   27.86% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58%
 ```
-
-
 📊 **This Week I Spent My Time On** 
-
 ```text
 ⌚︎ Time Zone: Europe/London
-
 💬 Programming Languages: 
 No Activity Tracked This Week
-
 🔥 Editors: 
 No Activity Tracked This Week
-
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in Python** 
-
+**I Mostly Code in Java** 
 ```text
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
+Java                     14 repos            ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 ```
-
-
 **Timeline**
-
 ![Chart not found](https://github.com/orhanarifoglu/orhanarifoglu/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
@@ -968,7 +960,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 Joined Github **6** years ago.
 
-Since then I pushed **323** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
+Since then I pushed **327** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
 
 Most used languages across my projects:
 
