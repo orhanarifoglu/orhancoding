@@ -657,56 +657,37 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 - To learn from scratch
 
 
-| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="cpp logo" width="30">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="c logo" width="30">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="python logo" width="30">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |  
-|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="cpp logo" width="30">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="c logo" width="30">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="python logo" width="30">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |   [<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+|---|---|---|---|---|
 
 
 
 
-<h2> Tools Goals 🛠️ </h2>
+<h2> Tool Goals 🛠️ </h2>
 
 
 	
 - To get better at
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="cpp logo" width="30">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="c logo" width="30">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="python logo" width="30">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/travis_ci.png" alt="c logo" width="30">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="python logo" width="30">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/actions.png" alt="cpp logo" width="30">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="c logo" width="30">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="python logo" width="30">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/travis_ci.png" alt="c logo" width="30">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="python logo" width="30">](https://www.python.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="cpp logo" width="30">](https://isocpp.org/)  | Windows Terminal | WSL | 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 
 
+- To learn from scratch
+ 
+  | [<img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|---|---|---|---|---|
     
-    
-    
-    
-   
- 
-   <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
- 
-  <br />
- >
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="cpp logo" width="30">](https://isocpp.org/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="c logo" width="30">](http://www.open-std.org/jtc1/sc22/wg14/) | [<img src="img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="python logo" width="30">](https://www.python.org/) |  [<img src="img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |
 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-| Windows Terminal | WSL | 
+ 
+ ////////////////////////////////////////////////////
 
 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+| [<img src="img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="python logo" width="30">](https://www.python.org/) |  [<img src="img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |
+
+ 
 
 
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gimp.png" alt="cpp logo" width="30">](https://isocpp.org/)
@@ -717,56 +698,56 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 /////////////////////////////////
 ### Languages and Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
-
-**🌱 Looking forward to learn:** <br>
-<br>
+ ## 🌱 Ask me about :computer:
+ 
+ <p>
+	
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<br>
-<br>
-<br>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="nodejs"></code>
+<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github"></code>
+<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/php.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
+<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/docker.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/dockerhub.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<img title="AWS" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/aws.svg" width="60" height="40" />
+<img title="linux" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/linux-tux.svg" width="40" />
 
-## Tech Stack :computer:
-
-<br>
-
-
-<p>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
+//////////////////////////////////////////////////////////////
 
 
+
+[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
+<img title="Hadoop" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" width="70" height="40" />
+<img title="Spark" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" width="80" height="40" />
+<img title="Scala" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" width="40" height="40" />
+<img title="Kafka" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" width="105" height="40" />
+<img title="Bamboo" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/bamboo.svg" width="40" height="40" />
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
+[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 
 <h2> I like to learn </h2>
@@ -777,19 +758,10 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<img title="Hadoop" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" width="70" height="40" />
-<img title="Spark" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" width="80" height="40" />
-<img title="Scala" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" width="40" height="40" />
-<img title="Kafka" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" width="105" height="40" />
-<img title="Bamboo" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/bamboo.svg" width="40" height="40" />
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
@@ -811,10 +783,7 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 
-[![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
@@ -828,7 +797,6 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <h2>🌱 Looking forward to learn:</h2>
 
 <code><img height="30" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
 
 
 
@@ -837,33 +805,22 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 </br>
 
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="nodejs"></code>
-<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github"></code>
+
+
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/r.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/php.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+
 <img src="/dev/new/react.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
 <img src="/dev/new/vue.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
+
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/docker.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/dockerhub.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/nuget.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-<img title="AWS" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/aws.svg" width="60" height="40" />
-<img title="linux" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/linux-tux.svg" width="40" />
+
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">  
 
 
@@ -882,77 +839,56 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-311-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 **🐱 My Github Data** 
-
-> 🏆 211 Contributions in the Year 2020
+> 🏆 250 Contributions in the Year 2020
  > 
-> 📦 155.1 kB Used in Github's Storage 
+> 📦 153.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories
+> 📜 36 Public Repositories
  > 
-> 🔑 8 Private Repositories 
-
+> 🔑 7 Private Repositories 
 **I'm a Night 🦉** 
-
 ```text
-🌞 Morning    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
-🌆 Daytime    77 commits     █████████░░░░░░░░░░░░░░░░   39.29% 
-🌃 Evening    69 commits     ████████░░░░░░░░░░░░░░░░░   35.2% 
-🌙 Night      47 commits     ██████░░░░░░░░░░░░░░░░░░░   23.98%
-
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌆 Daytime    149 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    241 commits    ████████████░░░░░░░░░░░░░   50.1% 
+🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
 ```
-📅 **I'm Most Productive on Thursday** 
-
+📅 **I'm Most Productive on Monday** 
 ```text
-Monday       35 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
-Tuesday      12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
-Wednesday    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
-Thursday     95 commits     ████████████░░░░░░░░░░░░░   48.47% 
-Friday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.63% 
-Saturday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.1%
-
+Monday       134 commits    ███████░░░░░░░░░░░░░░░░░░   27.86% 
+Tuesday      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Wednesday    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Friday       36 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.48% 
+Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       99 commits     █████░░░░░░░░░░░░░░░░░░░░   20.58%
 ```
-
-
 📊 **This Week I Spent My Time On** 
-
 ```text
 ⌚︎ Time Zone: Europe/London
-
 💬 Programming Languages: 
 No Activity Tracked This Week
-
 🔥 Editors: 
 No Activity Tracked This Week
-
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 💻 Operating System: 
 No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in Python** 
-
+**I Mostly Code in Java** 
 ```text
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-C#                       2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
+Java                     14 repos            ██████████████░░░░░░░░░░░   58.33% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab                1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 ```
-
-
 **Timeline**
-
 ![Chart not found](https://github.com/orhanarifoglu/orhanarifoglu/blob/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
@@ -1011,7 +947,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 Joined Github **6** years ago.
 
-Since then I pushed **317** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
+Since then I pushed **322** commits, opened **13** issues, submitted **8** pull requests, received **1** stars across **15** personal projects and contributed to **10** public repositories.
 
 Most used languages across my projects:
 
