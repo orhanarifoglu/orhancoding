@@ -688,7 +688,7 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 |  [<img src="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
 |  [<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
     
 
 
