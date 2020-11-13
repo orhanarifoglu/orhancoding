@@ -676,9 +676,24 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 
 - To learn from scratch
  
-| [<img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="cpp logo" width="30">](https://isocpp.org/)
+| [<img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)" alt="cpp logo" width="30">](https://isocpp.org/)
 |---|---|---|---|---|
     
+
+|  [<img src="https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="cpp logo" width="30">](https://isocpp.org/)
+
 
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
