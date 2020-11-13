@@ -677,7 +677,6 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 - To learn from scratch
  
 | [<img src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg" alt="cpp logo" width="30">](https://isocpp.org/)  | 
-
 |---|
     
 
