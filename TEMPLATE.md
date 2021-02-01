@@ -1088,6 +1088,30 @@ Most used languages across my projects:
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 
+  #### 💻 Currently Focused on <br />
+
+|  [<img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/dev/new/qt.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/bamboo.svg" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&link=https://github.com/LuizCarlosAbbott/" alt="cpp logo" width="30">](https://isocpp.org/)   
+|  [<img src="/dev/new/rsoftware.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gimp.png" alt="cpp logo" width="30">](https://isocpp.org/)
+|  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="python logo" width="30">](https://www.python.org/) 
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="js logo" width="30">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+
+#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
 
 </details>
 
