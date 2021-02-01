@@ -1046,7 +1046,7 @@ Most used languages across my projects:
 [![COVID-19 Dashboard](https://img.shields.io/badge/-🦠&nbsp;COVID&#8209;19&nbsp;Dashboard-000000?style=flat)](https://github.com/adamalston/COVID-19-Dashboard)
 [![Summarizer](https://img.shields.io/badge/-📰&nbsp;&nbsp;Summarizer-000000?style=flat)](https://github.com/adamalston/Summarizer)
 [![Voice Poker](https://img.shields.io/badge/-🃏&nbsp;Voice&nbsp;Poker-000000?style=flat)](https://github.com/adamalston/Poker)
-[![PokémonGo Map](https://img.shields.io/badge/-🗺️&nbsp;PokémonGo&nbsp;Map-000000?style=flat)](https://github.com/adamalston/PokemonGo-Map)
+[![PokémonGo Map](https://img.shields.io/badge/-🗺️&nbsp;PokémonGo&nbsp;Map-000000?style=flat)](https://github.com/adamalston/PokemonGo-Map)--->
 
 
 <b>To be continued...</b>
@@ -1056,7 +1056,7 @@ Most used languages across my projects:
 [![SYN Flood](https://img.shields.io/badge/-🌊&nbsp;&nbsp;SYN&nbsp;Flood-000000?style=flat)](https://github.com/adamalston/SYN-Flood)
 [![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗃️&nbsp;Packet&nbsp;Sniffing&nbsp;&&nbsp;Spoofing-000000?style=flat)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
 [![SQL Injection](https://img.shields.io/badge/-💉&nbsp;&nbsp;SQL&nbsp;Injection-000000?style=flat)](https://github.com/adamalston/SQL-Injection)
-[![Spectre & Meltdown](https://img.shields.io/badge/-🛡️&nbsp;Spectre&nbsp;&&nbsp;Meltdown-000000?style=flat)](https://github.com/adamalston/Meltdown-Spectre)
+[![Spectre & Meltdown](https://img.shields.io/badge/-🛡️&nbsp;Spectre&nbsp;&&nbsp;Meltdown-000000?style=flat)](https://github.com/adamalston/Meltdown-Spectre)--->
 
 <b>To be continued...</b>
 **Other projects**
@@ -1065,7 +1065,7 @@ Most used languages across my projects:
 [![SMTP](https://img.shields.io/badge/-📧&nbsp;&nbsp;SMTP-000000?style=flat)](https://github.com/adamalston/SMTP)
 [![Network Tools](https://img.shields.io/badge/-📡&nbsp;&nbsp;Network&nbsp;Tools-000000?style=flat)](https://github.com/adamalston/Network-Tools)
 [![Cache Simulator](https://img.shields.io/badge/-⛓️&nbsp;Cache&nbsp;Simulator-000000?style=flat)](https://github.com/adamalston/CacheSimulator)
-[![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)](https://github.com/adamalston/rgbTextColorizer)
+[![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)](https://github.com/adamalston/rgbTextColorizer)--->
 
 
 <b>To be continued...</b>
@@ -1091,27 +1091,13 @@ Most used languages across my projects:
 </details>
 
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <a href="http://hits.dwyl.com/orhanarifoglu/orhanarifoglu" target="_blank">
-    <img align="center" alt="HitCount" src="http://hits.dwyl.com/orhanarifoglu/orhanarifoglu.svg" />
-  </a>
-    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=orhanarifoglu.orhanarifoglu" />
-</p>
-
-
-
-
-
 
 [![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/0)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/0)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/1)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/1)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/2)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/2)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/3)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/3)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/4)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/4)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/5)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/5)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/6)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/6)[![](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/images/7)](https://sourcerer.io/fame/orhanarifoglu/orhanarifoglu/Android-Animation/links/7)
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=orhanarifoglu.orhanarifoglu)
+ 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=orhanarifoglu.orhanarifoglu)
+
 
