@@ -1102,7 +1102,6 @@ Most used languages across my projects:
  <code><img height="40" src="https://img.shields.io/badge/-Nestjs-black"></code>
  <code><img height="40" src="https://img.shields.io/badge/-RabbitMQ-black"></code>
  <code><img height="40" src="https://img.shields.io/badge/-ElasticSearch-005571"></code>
- <code><img height="40" src="https://img.shields.io/badge/-ElasticSearch-005571"></code>
  <code><img height="40" src="/dev/new/rsoftware.svg"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gimp.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png"></code>
