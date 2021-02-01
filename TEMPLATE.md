@@ -951,10 +951,7 @@ Most used languages across my projects:
  <a href="https://discord.com/users/Socrates#9901"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://ctftime.org/user/68856"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/ctftime.ico" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
   <a href="https://deut-erium.github.io"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
-	
- <a href="https://medium.com/@orhanarifoglu" target="blank">
-  <img align="center" alt="Orhan's Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
- </a> 
+  <a href="https://medium.com/@orhanarifoglu"><img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="30px" alt="Orhan's Medium"></a> &nbsp; &nbsp; 
 </p>
 
 </details>
