@@ -1049,7 +1049,8 @@ Most used languages across my projects:
 [![PokémonGo Map](https://img.shields.io/badge/-🗺️&nbsp;PokémonGo&nbsp;Map-000000?style=flat)](https://github.com/adamalston/PokemonGo-Map)--->
 
 
-<b>To be continued...</b>
+***To be continued...***
+
 **Cybersecurity projects**
 
 <!---[![Heartbleed](https://img.shields.io/badge/-🩸&nbsp;Heartbleed-000000?style=flat)](https://github.com/adamalston/Heartbleed)
@@ -1058,7 +1059,7 @@ Most used languages across my projects:
 [![SQL Injection](https://img.shields.io/badge/-💉&nbsp;&nbsp;SQL&nbsp;Injection-000000?style=flat)](https://github.com/adamalston/SQL-Injection)
 [![Spectre & Meltdown](https://img.shields.io/badge/-🛡️&nbsp;Spectre&nbsp;&&nbsp;Meltdown-000000?style=flat)](https://github.com/adamalston/Meltdown-Spectre)--->
 
-<b>To be continued...</b>
+***To be continued...***
 **Other projects**
 
 <!---[![Clean My Mac](https://img.shields.io/badge/-🧼&nbsp;&nbsp;Clean&nbsp;My&nbsp;Mac-000000?style=flat)](https://github.com/adamalston/Clean-My-Mac)
@@ -1068,7 +1069,7 @@ Most used languages across my projects:
 [![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)](https://github.com/adamalston/rgbTextColorizer)--->
 
 
-<b>To be continued...</b>
+***To be continued...***
 
 
   #### 👨🏻‍💻 Languages and Tools <br />
