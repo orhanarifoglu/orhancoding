@@ -1122,44 +1122,6 @@ Most used languages across my projects:
 
 
 
-
-<details>
-<summary>
-	<b> Others</b> 
-
-</summary>
-
-<!-- recent_releases starts -->
-
-<!-- recent_releases ends -->
-
-
-</br>
-</details>
-
-
-
-
-
-
-
-
-################################################################
-
-
-
-<img src="/dev/new/rsoftware.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-
-
-<br/>
-</details>
-
-
-
-
-
-
-
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
@@ -1171,8 +1133,6 @@ Both apis are in trouble due to the number of requests, if you know any other to
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
 </p>
 
-
-#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
 
 
 
