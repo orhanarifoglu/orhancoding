@@ -799,7 +799,8 @@ Welcome to my page. I am always on the lookout for new cool projects to work on 
 <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white">
 <img src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/git.svg" width="70" height="40">
 <img src="/dev/new/nodejs.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/orhanarifoglu)](https://github.com/orhanarifoglu)
+<img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white">
+
 
 
 
